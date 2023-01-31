@@ -1,6 +1,6 @@
 DIVIDINGCHAR = "/" # set the character to divide letters by
 
-inp = input("input your sting of english here e.g. \'..../.. for \'hi\'\'")
+inp = input("input english here e.g. \'..../.. for \'hi\'\'")
 
 
 lst = [] # this list is used to concatenate all the letters' results and turn them into a single pretty output
